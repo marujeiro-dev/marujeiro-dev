@@ -13,13 +13,12 @@
 - 📍 **Atualmente em Parintins-AM** 🐂💙
 - 💻 **Desenvolvedor Fullstack Web**
 - 🎯 **Foco em entregar soluções robustas e bem estruturadas**
+- 🤝 Conecte-se comigo no [**LinkedIn**](https://www.linkedin.com/in/menezes-dev) ou envie um [**e-mail**](mailto:marujeiro.dev@gmail.com)
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -51,37 +50,16 @@
 
 ## 💼 Experiência
 
-<div align="center">
-
 | Período | Cargo Atual | Descrição das Atividades |
 |---------|-------|------------------------|
 | 2022 - Atualmente | **Software Engineer I** | Suporte a sistemas de vendas (Delphi) + Desenvolvimento de novas soluções em **ReactJS, VueJS e C#** |
-
-</div>
 
 ---
 
 ## 📊 Estatísticas no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marujeiro-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marujeiro-dev&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marujeiro-dev&theme=radical&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-  
-> *"Somos marujada de guerra / Vamos balançar, tremer terra / Pra mostrar o melhor ritmo do festival"*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menezes-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marujeiro.dev@gmail.com)
-
-</div>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marujeiro-dev&theme=radical&hide_border=true"/>
 
 ---
 
